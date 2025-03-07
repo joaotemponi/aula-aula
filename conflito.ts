@@ -1,0 +1,1 @@
+console.log('Aluno A alterou o arquivo conflito.ts');
