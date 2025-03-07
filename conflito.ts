@@ -3,3 +3,5 @@ console.log('Aluno B alterou o arquivo conflito.ts');
 
 let concatenar: string = "Git + Hub"
 console.log('Concatenado ${concatenar}');
+
+console.log('Aluno A adicionando linha 7');
